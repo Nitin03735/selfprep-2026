@@ -9,3 +9,12 @@ update .bash_profile
   export PATH=$MAVEN_HOME/bin:$PATH
   --
 project > mvn install > cp gameoflife.war to tomcat
+
+
+-----
+Index of /war-stable/2.375.4 - java 17 - Older version of topmcat is not sutable 
+---
+JENKINS
+install java 21 
+use tomcat 10 v 
+download jenkins war >> https://updates.jenkins.io/download/war/2.545/jenkins.war
