@@ -1,0 +1,11 @@
+install java 1.8.0
+install git
+git clone https://github.com/wakaleo/game-of-life.git
+tomcat - https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.113/bin/apache-tomcat-9.0.113.zip > unzip > chmod /bin > ./startup.sh
+maven - https://dlcdn.apache.org/maven/maven-3/3.9.12/binaries/apache-maven-3.9.12-bin.zip
+update .bash_profile
+  --
+  export MAVEN_HOME=/mnt/server/apache-maven-3.9.12
+  export PATH=$MAVEN_HOME/bin:$PATH
+  --
+project > mvn install > cp gameoflife.war to tomcat
