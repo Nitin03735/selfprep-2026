@@ -1,6 +1,7 @@
 Project name- spring-framework-petclinic
 GH REPO- https://github.com/spring-petclinic/spring-framework-petclinic.git
-Maven - https://github.com/spring-petclinic/spring-framework-petclinic.git
+        - https://github.com/Nitin03735/spring-framework-petclinic.git
+Maven - https://dlcdn.apache.org/maven/maven-3/3.9.12/binaries/apache-maven-3.9.12-bin.zip
 Tomcat - https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.50/bin/apache-tomcat-10.1.50.zip
 Java - 17 
 jenkins - letest https://get.jenkins.io/war-stable/2.528.3/jenkins.war
